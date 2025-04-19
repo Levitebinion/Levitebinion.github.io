@@ -16,3 +16,9 @@
 * Lab 11, part-1
     this lab was the really the first one we applied our knowledge from lecture on classes. this one got the gears turning in my head because with classes we can essentially make our own variables in our code to represent specific things. seeing this simplified coding a lot for me because up until this lab it felt as if I couldn't be as specific as I wanted to be in naming variables in labs. another element of this lab was inputtiing and outputting information in files from the terminal. This lab felt like a real world, and useful application of code. 
  
+## Favorite CPSC 121L Labs 
+*
+*
+
+## Projects in CPSC 253: Cybersecurity Foundations and Principles
+*
